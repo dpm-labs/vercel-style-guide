@@ -20,7 +20,7 @@ module.exports = {
         require.resolve('./rules/typescript/extension'),
         require.resolve('./rules/typescript/import'),
         require.resolve('./rules/typescript/strict'),
-        require.resolve('./rules/tsdoc'),
+        require.resolve('./rules/tsdoc')
       ],
     },
   ],
